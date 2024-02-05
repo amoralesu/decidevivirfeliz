@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #34e5a6;
+  color: #92278f;
   text-decoration: none;
 }
 
@@ -98,7 +98,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #2be4a2;
+  background: #92278f;
   color: #fff;
 }
 
@@ -464,7 +464,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #17b57d;
+  background: #92278f;
 }
 
 #hero .animated {
@@ -1251,7 +1251,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #149f6e;
+  background: #92278f;
 }
 
 .pricing .featured h3 {
@@ -1626,7 +1626,7 @@ section {
 }
 
 #footer .footer-top .footer-newsletter form input[type=submit]:hover {
-  background: #149f6e;
+  background: #92278f;
 }
 
 #footer .copyright {
